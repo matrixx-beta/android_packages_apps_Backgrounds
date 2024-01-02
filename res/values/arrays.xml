@@ -5,17 +5,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="partner_wallpapers" translatable="false">
-        <item>sky</item>
-        <item>rainy_night</item>
-        <item>abstract_sky</item>
-        <item>mountains</item>
-        <item>mountains_lake</item>
-        <item>flowers</item>
-        <item>building</item>
-        <item>mountains_sunset</item>
-        <item>pink_blue</item>
-        <item>cyan_blue</item>
-        <item>green_fade</item>
-        <item>dark_fade</item>
+        <item>wallpaper_01</item>
+        <item>wallpaper_02</item>
+        <item>wallpaper_03</item>
+        <item>wallpaper_04</item>
+        <item>wallpaper_05</item>
+        <item>wallpaper_06</item>
+        <item>wallpaper_07</item>
+        <item>wallpaper_08</item>
+        <item>wallpaper_09</item>
+        <item>wallpaper_10</item>
+        <item>wallpaper_11</item>
+        <item>wallpaper_12</item>
+        <item>wallpaper_13</item>
+        <item>wallpaper_14</item>
     </array>
 </resources>
